@@ -1,0 +1,99 @@
+// ERRORS
+export const EMPTY_ERRORS = 'EMPTY_ERRORS';
+export const GET_ERRORS = 'GET_ERRORS';
+
+// ADMIN
+export const ADD_ADMIN = 'ADD_ADMIN';
+export const BEFORE_ADMIN = 'BEFORE_ADMIN';
+export const LOGIN_ADMIN = 'LOGIN_ADMIN';
+export const GET_ADMIN = 'GET_ADMIN';
+export const GET_ADMINS = 'GET_ADMINS';
+export const UPDATE_ADMIN = 'UPDATE_ADMIN';
+export const DELETE_ADMIN = 'DELETE_ADMIN';
+export const UPDATE_PASSWORD = 'UPDATE_PASSWORD';
+export const FORGOT_PASSWORD = 'FORGOT_PASSWORD';
+export const RESET_PASSWORD = 'RESET_PASSWORD';
+export const GET_USER_VERIFY = 'GET_USER_VERIFY';
+export const BEFORE_USER_VERIFY = 'BEFORE_USER_VERIFY';
+
+
+// ROLES
+export const ADD_ROLE = 'ADD_ROLE';
+export const UPDATE_ROLE = 'UPDATE_ROLE';
+export const DELETE_ROLE = 'DELETE_ROLE';
+export const GET_ROLE = 'GET_ROLE';
+export const GET_ROLES = 'GET_ROLES';
+export const BEFORE_ROLE = 'BEFORE_ROLE';
+export const BEFORE_PERMISSION = 'BEFORE_PERMISSION';
+export const GET_PERMISSION = 'GET_PERMISSION';
+export const SET_LOADER_ROLE = 'SET_LOADER_ROLE';
+export const REMOVE_LOADER_ROLE = 'REMOVE_LOADER_ROLE';
+
+// USERS
+export const BEFORE_USER = 'BEFORE_USER';
+export const GET_USERS = 'GET_USERS';
+export const GET_USER = 'GET_USER';
+export const UPSERT_USER = 'UPSERT_USER';
+export const DELETE_USER = 'DELETE_USER';
+
+// Emails
+export const GET_EMAILS = 'GET_EMAILS';
+export const GET_EMAIL = 'GET_EMAIL';
+export const BEFORE_EMAIL = 'BEFORE_EMAIL';
+export const UPDATE_EMAIL = 'UPDATE_EMAIL';
+
+// Settings
+export const GET_SETTINGS = 'GET_SETTINGS';
+export const EDIT_SETTINGS = 'EDIT_SETTINGS';
+export const BEFORE_SETTINGS = 'BEFORE_SETTINGS';
+
+// FAQS
+export const GET_FAQS = 'GET_FAQS'
+export const BEFORE_FAQ = 'BEFORE_FAQ'
+export const DELETE_FAQ = 'DELETE_FAQ'
+export const CREATE_FAQ = 'CREATE_FAQ'
+export const GET_FAQ = 'GET_FAQ'
+export const EDIT_FAQ = 'EDIT_FAQ'
+
+// CONTACTS
+export const BEFORE_CONTACT = 'BEFORE_CONTACT';
+export const GET_CONTACTS = 'GET_CONTACTS';
+export const EDIT_CONTACT = 'EDIT_CONTACT';
+
+// ACTIVITY
+export const BEFORE_ACTIVITY = 'BEFORE_ACTIVITY'
+export const GET_ACTIVITIES = 'GET_ACTIVITIES'
+
+// DASHBOARD
+export const BEFORE_DASHBOARD = 'BEFORE_DASHBOARD'
+export const GET_DASHBOARD = 'GET_DASHBOARD'
+
+//CONTENT MANAGEMENT
+export const GET_CONTENT_PAGE = 'GET_CONTENT_PAGE'
+export const GET_CONTENT_PAGES = 'GET_CONTENT_PAGES'
+export const EDIT_CONTENT_PAGE = 'EDIT_CONTENT_PAGE'
+export const DELETE_CONTENT_PAGE = 'DELETE_CONTENT_PAGE'
+export const ADD_CONTENT_PAGE = 'ADD_CONTENT_PAGE'
+export const BEFORE_CONTENT = 'BEFORE_CONTENT'
+
+//SUPPORT_DEV
+export const BEFORE_DEV = 'BEFORE_DEV'
+export const GET_DEVS = 'GET_DEVS'
+export const GET_DEV = 'GET_DEV'
+export const EDIT_DEV = 'EDIT_DEV'
+export const GET_DEV_SUPPORT_SDK = 'GET_DEV_SUPPORT_SDK'
+export const GET_DEV_SUPPORT_GAMES = 'GET_DEV_SUPPORT_GAMES'
+
+//SUPPORT_PLAYER
+export const BEFORE_PLAYER = 'BEFORE_PLAYER'
+export const GET_PLAYERS = 'GET_PLAYERS'
+export const GET_PLAYER = 'GET_PLAYER'
+export const EDIT_PLAYER = 'EDIT_PLAYER'
+export const GET_SUPPORT_PLAYER_GAMES = 'GET_SUPPORT_PLAYER_GAMES'
+
+export const GET_USERS_IN_GAMES = 'GET_USERS_IN_GAMES'
+
+
+
+
+
